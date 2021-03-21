@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-20T12:46:12.437Z</updated>
+  <updated>2021-03-21T09:44:24.135Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客又又又又搬家了</title>
+    <link href="http://example.com/2021/03/21/%E5%8D%9A%E5%AE%A2%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E6%90%AC%E5%AE%B6%E4%BA%86/"/>
+    <id>http://example.com/2021/03/21/%E5%8D%9A%E5%AE%A2%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E6%90%AC%E5%AE%B6%E4%BA%86/</id>
+    <published>2021-03-21T09:43:01.000Z</published>
+    <updated>2021-03-21T09:44:24.135Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>经过Wordpress，typecho以及各种倒闭虚拟主机，博客终于在2021.03.21号搬到了github。历经无数困难，</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
