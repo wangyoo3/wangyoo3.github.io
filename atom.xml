@@ -3,11 +3,11 @@
   <title>忘忧</title>
   
   <subtitle>记录点滴生活</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://blog.wangyoo.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://blog.wangyoo.cn/"/>
   <updated>2021-03-21T09:50:46.597Z</updated>
-  <id>http://example.com/</id>
+  <id>http://blog.wangyoo.cn/</id>
   
   <author>
     <name>Wangyoo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>博客又又又又搬家了</title>
-    <link href="http://example.com/2021/03/21/%E5%8D%9A%E5%AE%A2%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E6%90%AC%E5%AE%B6%E4%BA%86/"/>
-    <id>http://example.com/2021/03/21/%E5%8D%9A%E5%AE%A2%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E6%90%AC%E5%AE%B6%E4%BA%86/</id>
+    <link href="http://blog.wangyoo.cn/2021/03/21/%E5%8D%9A%E5%AE%A2%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E6%90%AC%E5%AE%B6%E4%BA%86/"/>
+    <id>http://blog.wangyoo.cn/2021/03/21/%E5%8D%9A%E5%AE%A2%E5%8F%88%E5%8F%88%E5%8F%88%E5%8F%88%E6%90%AC%E5%AE%B6%E4%BA%86/</id>
     <published>2021-03-21T09:43:01.000Z</published>
     <updated>2021-03-21T09:50:46.597Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="http://blog.wangyoo.cn/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/03/21/hello-world/"/>
-    <id>http://example.com/2021/03/21/hello-world/</id>
+    <link href="http://blog.wangyoo.cn/2021/03/21/hello-world/"/>
+    <id>http://blog.wangyoo.cn/2021/03/21/hello-world/</id>
     <published>2021-03-21T06:07:59.979Z</published>
     <updated>2021-03-20T12:46:12.437Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="http://example.com/2021/03/20/article-title/"/>
-    <id>http://example.com/2021/03/20/article-title/</id>
+    <link href="http://blog.wangyoo.cn/2021/03/20/article-title/"/>
+    <id>http://blog.wangyoo.cn/2021/03/20/article-title/</id>
     <published>2021-03-20T13:17:20.000Z</published>
     <updated>2021-03-20T13:17:20.560Z</updated>
     
